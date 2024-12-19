@@ -5,4 +5,5 @@
 /.terraformrc.example
 /terraform.rc
 /terraform.tfstate
-
+.env
+terraform.tfvars
